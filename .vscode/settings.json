@@ -1,0 +1,15 @@
+{
+  "locofyConfig": {
+    "project": "Landing Page 1 (Community)",
+    "id": "66c04fcd6b176683cf9a5d19",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\Shiv\\Desktop\\Task 1\\src\\components",
+    "screensPath": "c:\\Users\\Shiv\\Desktop\\Task 1\\src\\pages"
+  },
+  "liveServer.settings.port": 5501
+}
